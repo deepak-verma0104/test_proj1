@@ -8,6 +8,7 @@ def my_cube(x):
 def my_cube2(x):
     """ This program finds the cube of 6 
 	This is another line added in the comments
+	Another line added 
     """
 
     return x*x*x
